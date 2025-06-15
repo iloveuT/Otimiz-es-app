@@ -8,4 +8,3 @@ C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\
 C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\Otimizaçôes_app.Properties.Resources.resources
 C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\App de Otimizaçôes.exe
 C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\App de Otimizaçôes.pdb
-C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\App de Otimizaçôes.exe.config
