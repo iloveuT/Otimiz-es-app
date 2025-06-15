@@ -466,5 +466,27 @@ namespace Otimizçôes_app
                 MessageBox.Show("A reinicialização foi cancelada.", "Cancelado", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
+
+        private void lblkGithubProfile_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            LinkLabel clickedLink = sender as LinkLabel;
+            if (clickedLink != null)
+            {
+                try
+                {
+                    // Abre o URL associado ao LinkLabel no navegador padrão
+                    Process.Start(clickedLink.Tag.ToString());
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Não foi possível abrir o link: {ex.Message}", "Erro ao Abrir Link", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+        }
+
+        private void lblkGithubRep_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
     }
 }

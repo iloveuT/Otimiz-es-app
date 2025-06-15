@@ -1,0 +1,11 @@
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\Otimizçôes app.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\Otimizçôes_app.Form1.resources
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\Otimizçôes app.csproj.GenerateResource.cache
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\Otimizçôes app.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\bin\Debug\App de Otimizaçôes.exe.config
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\bin\Debug\App de Otimizaçôes.exe
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\bin\Debug\App de Otimizaçôes.pdb
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\Otimizaçôes_app.Properties.Resources.resources
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\App de Otimizaçôes.exe
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\App de Otimizaçôes.pdb
+C:\Users\thoma\OneDrive\Documentos\Visual Studio 2022\Projetos\Otimizçôes app\Otimizçôes app\obj\Debug\App de Otimizaçôes.exe.config
